@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 1,
+  "name": "Watabou's Procgen Arcana",
+  "summary": "A freshly generated symbiote",
+  "descriptionFilePath": "/README.md",
+  "version": "0.0.1",
+  "license": "MIT",
+  "about": {
+    "website": "https://watabou.github.io/index.html",
+    "authors": [
+      "Carduus"
+    ]
+  },
+  "kind": "webView",
+  "entryPoint": "https://watabou.github.io/index.html",
+  "controls": {
+    "navigation": true,
+    "reload": true
+  }
+}
